@@ -2,4 +2,4 @@
 
 Project created using React.js
 
-![RobotsREACT](RobotsREACt.png)
+![RobotsREACT](RobotsREACT.png)
